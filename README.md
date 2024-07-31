@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hey there 👋 I'm Nikhil Jagga </h1>
 
-<!--
-**Nikhil-Jagga/Nikhil-Jagga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>About Me :</p>
+<ul>
+<li>
+  <small>Currently learning Data Analytics</small>
+</li>
+<li>
+  <small>Skills : Python  |  SQL | C | C++ | Jupyter Notebook | HTML | CSS </small>
+</li>
+<li>
+  <small>Contact me at <a href="mailto:nikhiljagga.in@gmail.com">nikhiljagga.in@gmail.com</a> </small>
+</li>
+<li>
+  <small>Feel free to connect with me at <a href="https://www.linkedin.com/in/nikhil-jagga-7280b8273">Linkedin</a> </small>
+</li>
+</ul>
