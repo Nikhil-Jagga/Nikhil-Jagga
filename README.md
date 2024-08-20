@@ -6,7 +6,7 @@
   <small>Currently learning Data Analytics</small>
 </li>
 <li>
-  <small>Skills : Python  |  SQL | C | C++ | Jupyter Notebook | HTML | CSS </small>
+  <small>Skills : Python  |  SQL | Jupyter Notebook | </small>
 </li>
 <li>
   <small>Contact me at <a href="mailto:nikhiljagga.in@gmail.com">nikhiljagga.in@gmail.com</a> </small>
