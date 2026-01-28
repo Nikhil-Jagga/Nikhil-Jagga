@@ -3,7 +3,8 @@
 <p>About Me :</p>
 <ul>
 <li>
-  <small>Currently learning Data Analytics</small>
+  <small>Currently learning Data Engineering Tools </small>
+</li>
 </li>
 <li>
   <small>Skills : Python  |  SQL | Jupyter Notebook | </small>
