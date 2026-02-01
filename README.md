@@ -1,33 +1,16 @@
-<h1>Hey there 👋 I'm Nikhil Jagga </h1>
 
-<p>About Me :</p>
-<ul>
-<li>
-  <small>Currently learning Data Engineering Tools </small>
-</li>
-</li>
-<li>
-  <small>Skills : Python  |  SQL | Jupyter Notebook | </small>
-</li>
-<li>
-  <small>Contact me at <a href="mailto:nikhiljagga.in@gmail.com">nikhiljagga.in@gmail.com</a> </small>
-</li>
-<li>
-  <small>Feel free to connect with me at <a href="https://www.linkedin.com/in/nikhil-jagga-7280b8273">Linkedin</a> </small>
-</li>
-</ul>
-# 💫 About Me:
-👋 About Me<br><br>🎯 Network Administrator & Data Analytics Enthusiast<br><br>💻 Strong in Python, SQL, R, and Excel<br><br>☁️ Experience with AWS and API-based applications<br><br>🛠️ Built real-world projects like Banking System, Train Reservation System, and To-Do Manager<br><br>🔨 I’m currently working on<br><br>Python desktop applications (Tkinter-based systems)<br><br>Data Analysis & EDA projects<br><br>Cloud-integrated apps and automation tools<br><br>🤝 I’m looking to collaborate on<br><br>Open-source Python projects<br><br>Data analytics & visualization projects<br><br>Automation tools for IT & networking<br><br>🧠 I’m looking for help with<br><br>Advanced data engineering (Airflow, Spark)<br><br>Scalable system design & architecture<br><br>🌱 I’m currently learning<br><br>Advanced SQL & Data Warehousing<br><br>Network security & cloud infrastructure<br><br>Data pipelines & workflow automation<br><br>💬 Ask me about<br><br>Python, SQL, R<br><br>Data Analysis, EDA, Excel dashboards<br><br>Networking (LAN, WAN, Routing, Security)<br><br>Tkinter desktop applications<br><br>⚡ Fun fact<br><br>I enjoy automating boring tasks and building tools that solve real-world problems 🚀
+ 💫 About Me:
+👋 About Me<br><br>🎯 Data Analytics Enthusiast<br><br>💻 Strong in Python, SQL, R, and Excel<br><br>☁️ Experience with AWS and API-based applications<br><br>🛠️ Built real-world projects like Banking System, Train Reservation System, and To-Do Manager<br><br>🔨 I’m currently working on<br><br>Python desktop applications (Tkinter-based systems)<br><br>Data Analysis & EDA projects<br><br>Cloud-integrated apps and automation tools<br><br>🤝 I’m looking to collaborate on<br><br>Open-source Python projects<br><br>Data analytics & visualization projects<br><br>Automation tools for IT & networking<br><br>🧠 I’m looking for help with<br><br>Advanced data engineering (Airflow, Spark)<br><br>Scalable system design & architecture<br><br>🌱 I’m currently learning<br><br>Advanced SQL & Data Warehousing<br><br>Network security & cloud infrastructure<br><br>Data pipelines & workflow automation<br><br>💬 Ask me about<br><br>Python, SQL, R<br><br>Data Analysis, EDA, Excel dashboards<br><br>Networking (LAN, WAN, Routing, Security)<br><br>Tkinter desktop applications<br><br>⚡ Fun fact<br><br>I enjoy automating boring tasks and building tools that solve real-world problems 🚀
 
 
-# 💻 Tech Stack:
+ 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
+ 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nikhil-Jagga&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nikhil-Jagga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Jagga&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+ 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nikhil-Jagga&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
